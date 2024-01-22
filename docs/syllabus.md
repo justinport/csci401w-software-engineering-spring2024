@@ -4,7 +4,7 @@
    - [Instructor](#instructor)
    - [Course Overview](#course-overview)
    - [Course Objectives](#course-objectives)
-   - [Required Text](#required-text)
+   - [Preferred Text](#required-text)
    - [Tools](#tools)
      * [Communication](#communication)
      * [Platform](#platform)
@@ -39,7 +39,7 @@ This 16-week course examines the software development process from the initial r
 - Effectively utilize the Agile framework for planning and task execution within teams.
 - Conclude the course by delivering a detailed presentation of your software product, supported by necessary deliverables such as Product Documentation, Source Code, Builds, Pipelines, and a recorded demonstration.
 
-## Required Text
+## Preferred Text
 
 **Engineering Software Products: An Introduction to Modern Software Engineering 1st Edition**
 
