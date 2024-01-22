@@ -25,7 +25,7 @@
 | Contact | Class Format | Office Hours |
 | ------- | ------------ | ------------ |
 | jport@ric.edu | Hybrid | Monday: 6:00PM -7:30PM |
-| **Room**: Craig-Lee 012 | **Monday after class** |
+| **Room**: Craig-Lee 102 | **Monday after class** |
 
 ## Course Overview
 
